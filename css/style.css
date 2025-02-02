@@ -1,0 +1,12 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+nav ul {
+    color: rgb(185, 175, 175);
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
