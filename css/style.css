@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: black;
@@ -9,4 +14,10 @@ nav ul {
     display: flex;
     justify-content: center;
     gap: 40px;
+    font-size: 18px;
+    padding: 13px;
+    width: 220px;
+    background: rgb(46, 43, 43);
+    margin: 2rem auto;
+    border-radius: 20px;
 }
