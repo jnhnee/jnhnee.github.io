@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(29, 27, 27);
+    color: rgb(149, 156, 163);
+}
+nav {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+}
