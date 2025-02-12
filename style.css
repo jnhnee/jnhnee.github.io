@@ -1,13 +1,12 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: rgb(29, 27, 27);
-    color: rgb(149, 156, 163);
+    background-color: black;
+    color: rgb(188, 191, 194);
 }
-nav {
-    list-style: none;
+nav ul {
     display: flex;
     justify-content: center;
-    gap: 50px;
-    
+    gap: 30px;
+    list-style: none;
 }
