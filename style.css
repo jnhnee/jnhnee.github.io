@@ -3,11 +3,22 @@
     padding: 0;
     background-color: black;
     color: rgb(188, 191, 194);
+    text-decoration: none;
+    list-style: none;
 }
 nav ul {
     display: flex;
     justify-content: space-evenly;
-    width: 200px;
+    align-items: center;
+    margin: 2rem auto;
     background-color: rgb(39,39,42);
-    list-style: none;
+    font-size: 40px;
+    font-size: 18px;
+    padding-inline: 13px;
+    width: 220px;
+    border-radius: 20px;
+}
+nav ul li a {
+    background-color: rgb(39,39,42);
+    color: rgb(185, 175, 175)
 }
