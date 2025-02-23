@@ -25,3 +25,11 @@ nav ul li a {
     color: rgb(185, 175, 175);
     text-decoration: none;
 }
+
+.intro,
+.languages,
+.tools {
+    width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
