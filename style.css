@@ -33,3 +33,7 @@ nav ul li a {
     margin: 50px auto;
     text-align: center;
 }
+
+h2 {
+    text-decoration: underline;
+}
