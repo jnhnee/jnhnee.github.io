@@ -28,7 +28,9 @@ nav ul li a {
 
 .intro,
 .languages,
-.tools {
+.tools,
+.gamedev,
+.webdev {
     width: 800px;
     margin: 50px auto;
     text-align: center;
