@@ -30,7 +30,8 @@ nav ul li a {
 .languages,
 .tools,
 .gamedev,
-.webdev {
+.webdev,
+.contactme {
     width: 800px;
     margin: 50px auto;
     text-align: center;
