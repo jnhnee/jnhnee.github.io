@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: none;
 }
+
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 10px;
+    background-color: rgb(53, 59, 63);
+    width: 170px;
+    padding: 8px;
+    font-size: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: rgb(188, 188, 189);
+}
