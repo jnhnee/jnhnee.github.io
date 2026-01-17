@@ -11,4 +11,10 @@ body {
     gap: 40px;
     height: 100vh;
     width: auto;
+    background-color: #efebf9;
+    color: #000000;
+}
+
+a {
+    color: #858990;
 }
