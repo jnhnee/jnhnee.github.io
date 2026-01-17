@@ -17,4 +17,10 @@ body {
 
 a {
     color: #858990;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+a:hover {
+    color: rgb(75, 138, 75);
 }
