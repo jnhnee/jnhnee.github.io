@@ -4,6 +4,20 @@
     box-sizing: border-box;
 }
 
-body {
-    
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact div {
+    font-size: 32px;
+    align-self: center;
+    margin: 40px 0px;
+}
+
+.contact ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 30px;
 }
