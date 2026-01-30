@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #f3f3f3;
+}
+
 .contact {
     display: flex;
     flex-direction: column;
@@ -20,4 +24,8 @@
     justify-content: center;
     list-style: none;
     gap: 30px;
+}
+
+.contact a {
+    text-decoration: none;
 }
