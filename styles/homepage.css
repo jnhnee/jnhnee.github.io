@@ -18,7 +18,7 @@ body {
              'Helvetica Neue', sans-serif;
 }
 
-a {
+.links a {
     color: #858990;
     text-decoration: none;
     margin-right: 5px;
@@ -37,4 +37,12 @@ a:hover {
 
 .links {
     margin-top: 5px;
+}
+
+.projects a {
+    text-decoration: none;
+}
+
+.projects {
+    list-style: none;
 }
