@@ -10,6 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: #513755;
 }
 
 h1 {
@@ -32,10 +33,30 @@ h1 {
 
 a {
     text-decoration: none;
+    color: rgb(17, 68, 17);
 }
 
-.education {
+.experience, .education {
     width: 100%;
     max-width: 700px;
     text-align: left;
+}
+
+.experience > div,
+.education > div {
+    margin-left: 10px;
+}
+
+h3 {
+    text-decoration: underline;
+    margin-bottom: 7px;
+}
+
+h4 {
+    color: #420b4b;
+    margin-bottom: 4px;
+}
+
+#gpa {
+    color: rgb(68, 27, 161);
 }
